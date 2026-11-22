@@ -2,7 +2,7 @@
 
 An educational 4-bit CPU designed in **Logisim Evolution**, with a custom 9-bit instruction set and a **C++ assembler** that translates assembly into machine code and loads it into the CPU's instruction ROM.
 
-> **Academic project:** developed for the **Computer Architecture** course at **MET Institute**, under the supervision of **Dr. Abeer Heikel**.
+> **Academic project:** developed for the **Computer Architecture** course at **MET Institute**, under the supervision of **Dr. Abeer Heikal**.
 
 This is a teaching-scale design simulated in software. It is not a physical processor and not intended for real workloads.
 
