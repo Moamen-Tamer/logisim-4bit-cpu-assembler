@@ -256,7 +256,7 @@ v2.0 raw
 
 `TestProgram.md` also contains the shorter 7-instruction test (without `ADD R1, R2, R3`) that matches the course specification in `Instructions.md`.
 
-<!-- TODO: add a screenshot of the Environment circuit after pulse 8 showing R0-R3 and the counter. -->
+![Environment circuit after pulse 8](Environment.png)
 
 ## Running the CPU in Logisim Evolution
 
