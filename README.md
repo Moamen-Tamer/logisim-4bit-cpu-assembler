@@ -309,7 +309,7 @@ The assembler opens `program.asm` in its working directory and `../CPU.circ`, so
 
 ## Academic Context
 
-This project was developed as part of the **Computer Architecture** course at **MET Institute**, under the supervision of **Dr. Abeer Heikel**. The course specification (`Instructions.md`) defines the components, instruction formats and test program; the circuit implementation and the C++ assembler are my own work for the course.
+This project was developed as part of the **Computer Architecture** course at **MET Institute**, under the supervision of **Dr. Abeer Heikal**. The course specification (`Instructions.md`) defines the components, instruction formats and test program; the circuit implementation and the C++ assembler are my own work for the course.
 
 ## Learning Outcomes
 
