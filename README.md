@@ -325,4 +325,4 @@ This project is released under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-Thanks to Dr. Abeer Heikel and MET Institute for the Computer Architecture course and project specification, and to the Logisim Evolution developers for the simulator.
+Thanks to Dr. Abeer Heikal and MET Institute for the Computer Architecture course and project specification, and to the Logisim Evolution developers for the simulator.
